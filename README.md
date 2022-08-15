@@ -1,31 +1,31 @@
-# Amazon - Clone using ReactJs
+#### Amazon Clone
 
+## Overview: 
+* Created add to cart, count selected cart item
+* Google sign in method with firebase & designed with CSS
+* Selected product list and remove the product from cart
+* Counting price with react-currency-format
+* Stripe payment system
+* Using firebase cloud function, Express.js to create payment
+* Saving cart to the firebase firestore
+* Order page for the ordered Product from the firestore
 
-## Tech We Used
-
-- ReactJs
-- Firebase Hosting
-- Firebase Auth
-- Firebase Storage
-- React-Dom
-- React Context API
-
-## Features
-
-- Login and Logout
-- Add to cart
-- Remove from cart
-- Neat and clean UI
-
-## Steps to run in your machine
-
-#### Run the following commands
-```
-npm i
-npm run start
-```
+## Technology:                                    
+* React.js
+* Material-ui
+* React Router
+* Context API
+* axios
+* Firebase-Authentication
+* Firebase-Firestore
+* Firebase Cloud Functions
+* HTML / CSS
 
 
 
 
-#### Hope you liked this project, dont forget to ⭐ the repo.
+<!-- Stripe Functionality -->
+<!-- App.js file 2. payment.js  -->
+
+<!-- Backend  -->
+<!--  Function >>> index.js -->
